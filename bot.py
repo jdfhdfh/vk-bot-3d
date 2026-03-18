@@ -1,7 +1,7 @@
 import requests
 import time
 
-VK_TOKEN = "PASTE_TOKEN_HERE"
+VK_TOKEN = "vk1.a.ahhvtF0Xwt2FDQRbAGWILiMyB5FKx4kM56faEc_H0tI6Qg_sIGow3H0d-dXBI3My8BVmtVWrTfzZvrvQaFry_6dN06mCyeh6zvJp6tY5caKEhvqqZ14Zlm-eM4YWnjqONukBmIAeQnay3VatF8Xkh3LW76AbAOy2Ge9QqiO34Lr8_IRH0upKZ1Gv_-phGO2-h1zr6GSiCztBGJLVFNlLuA"
 GROUP_ID = 123456789
 
 def send_vk(user_id, message):
